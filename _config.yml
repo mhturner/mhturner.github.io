@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Max H. Turner / Site Title"
+title                    : "Max H. Turner"
 title_separator          : "-"
 name                     : &name "Max Turner"
 description              : &description "personal description"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Max Turner"
   avatar           : "MHT_headshot_downsample.jpg"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Visual & computational neuroscientist"
   location         : "San Francisco, CA"
-  employer         :
+  employer         : Stanford University
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?pli=1&user=S_ujhOYAAAAJ"
-  email            :
+  email            : mhturner -at- stanford
   uri              :
   bitbucket        :
   codepen          :
