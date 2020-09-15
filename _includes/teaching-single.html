@@ -1,0 +1,23 @@
+{% include base_path %}
+
+
+{% assign title = post.course %}
+
+<div class="{{ include.type | default: "list" }}__item">
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+
+
+    {% if post.course %}
+      <h2>{{ post.role }}: {{ post.course }} ({{ post.semester }})</h2>
+    {% endif %}
+
+    <p>{{ post.school }}, {{ post.department }}</p>
+
+
+    {% if post.syllabus_pdf %}
+      <p><a href=" {{ post.syllabus_pdf }} " target="_blank"><u>Syllabus PDF</u></a></p>
+    {% endif %}
+
+
+  </article>
+</div>
