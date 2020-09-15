@@ -2,9 +2,8 @@
 title: "Direction-Selective Circuits Shape Noise to Ensure a Precise Population Code"
 collection: publications
 permalink: /Zylberberg_Neuron_2016
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'Zylberberg, J., Cafaro, J., **Turner, M.H.**, Shea-Brown, E., & Rieke, F. (2016). &quot;Direction-Selective Circuits Shape Noise to Ensure a Precise Population Code.&quot; <i>Neuron 1</i>. 89(369-383).'
 date: 2016-01-20
-venue: 'Neuron'
 paperurl: 'http://mhturner.github.io/files/Zylberberg_Neuron_2016.pdf'
 citation: 'Zylberberg, J., Cafaro, J., **Turner, M.H.**, Shea-Brown, E., & Rieke, F. (2016). &quot;Direction-Selective Circuits Shape Noise to Ensure a Precise Population Code.&quot; <i>Neuron 1</i>. 89(369-383).'
 ---
