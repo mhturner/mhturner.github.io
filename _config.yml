@@ -84,35 +84,15 @@ author:
   avatar           : "MHT_headshot_downsample.jpg"
   bio              : "Visual & computational neuroscientist"
   location         : "San Francisco, CA"
-  employer         : Stanford University
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  employer         : "Postdoc @ Stanford"
+  position         :
+  pubmed           :
   googlescholar    : "https://scholar.google.com/citations?pli=1&user=S_ujhOYAAAAJ"
-  email            : mhturner -at- stanford
-  uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
+  email            : "mhturner /at/ stanford"
   github           : "mhturner"
-  google_plus      :
-  keybase          :
-  instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm           :
   linkedin         :
   orcid            :
-  pinterest        :
-  soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
-  tumblr           :
   twitter          : "@MaxwellHTurner"
-  vine             :
-  weibo            :
-  xing             :
-  youtube          :
   wikipedia        :
 
 

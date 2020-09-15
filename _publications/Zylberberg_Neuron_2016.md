@@ -2,10 +2,13 @@
 title: "Direction-Selective Circuits Shape Noise to Ensure a Precise Population Code"
 collection: publications
 permalink: /Zylberberg_Neuron_2016
-excerpt: 'Zylberberg, J., Cafaro, J., **Turner, M.H.**, Shea-Brown, E., & Rieke, F. (2016). &quot;Direction-Selective Circuits Shape Noise to Ensure a Precise Population Code.&quot; <i>Neuron 1</i>. 89(369-383).'
+authors: "Zylberberg, J., Cafaro, J., **Turner, M.H.**, Shea-Brown, E., & Rieke, F."
+year: 2016
 date: 2016-01-20
-paperurl: 'http://mhturner.github.io/files/Zylberberg_Neuron_2016.pdf'
-citation: 'Zylberberg, J., Cafaro, J., **Turner, M.H.**, Shea-Brown, E., & Rieke, F. (2016). &quot;Direction-Selective Circuits Shape Noise to Ensure a Precise Population Code.&quot; <i>Neuron 1</i>. 89(369-383).'
+journal: 'Neuron'
+issue: 89(369-383)
+paperurl:
+paperpdf: 'http://mhturner.github.io/files/Zylberberg_Neuron_2016.pdf'
 ---
 Neural responses are noisy, and circuit structure
 can correlate this noise across neurons. Theoretical
@@ -29,4 +32,4 @@ ulus-dependent correlations will generally enhance
 information coding in populations of diversely tuned
 neurons.
 
-[pdf here](http://mhturner.github.io/files/Zylberberg_Neuron_2016.pdf)
+[Full text pdf here](http://mhturner.github.io/files/Zylberberg_Neuron_2016.pdf)
