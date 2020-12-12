@@ -2,10 +2,10 @@
 title: "The connectome predicts resting state functional connectivity across the Drosophila brain"
 collection: publications
 permalink: /Turner_biorxiv_2020
-authors: "<b>Turner, M.H.*</b>, Mann, K., Clandinin, T.R."
+authors: "<b>*Turner, M.H.</b>, *Mann, K., & Clandinin, T.R."
 year: 2020
 date: 2020-12-11
-journal: 'bioRXiv'
+journal: 'bioRxiv'
 issue:
 paperurl: 'https://www.biorxiv.org/content/10.1101/2020.12.11.422105v1'
 paperpdf: 'http://mhturner.github.io/files/Turner_biorxiv_2020.pdf'
